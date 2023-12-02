@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.31.0
+_src_path: bot-template/
+add_fsm: true
+add_worker: true
+bot_description: TODO
+bot_display_name: Support Bot
+bot_name_underscored: support_bot_template
+bot_project_name: support-bot-template
+bot_short_description: TODO
+from_ccsteam: false
+has_private_dependencies: false
+
